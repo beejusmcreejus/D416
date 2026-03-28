@@ -87,7 +87,7 @@ def main():
     # Device connection parameters
     device = {
         'host': 'devnetsandboxiosxec8k.cisco.com',  # Replace with your device's IP
-        'username': 'bj381',     # Replace with your username
+        'username': 'bj3381',     # Replace with your username
         'password': 'F3Cl12T-qhh0_QD',     # Replace with your password
         'port': 830             # Standard NETCONF port
     }
